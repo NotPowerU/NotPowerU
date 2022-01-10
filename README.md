@@ -1,6 +1,13 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on gam
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+About Me:
+
+- 🔭 Game Developer - Discord BOT Developer - Programmer
+- 🌱 Learning
+- 
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
