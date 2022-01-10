@@ -1,4 +1,4 @@
-### About Me 👋:
+### About Me 👋
 
 - 🔭 Game Developer - Discord BOT Developer - Programmer
 - 🌱 Learning
