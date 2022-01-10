@@ -2,7 +2,7 @@
 
 - 🔭 Game Developer - Discord BOT Developer - Programmer
 - 🌱 I’m currently learning Web Development (HTML, CSS and JS).
-- 💻 Just trying to Make and Learn as much as Possible.
+- 💻 Just Trying to Create and Learn as much as Possible.
 
 ### Github Stats 📊
 
