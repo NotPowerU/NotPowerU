@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerUnited-Dev)](https://github.com/anuraghazra/github-readme-stats)
+![PowerUnited's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerUnited-Dev&show_icons=true&theme=radical)
