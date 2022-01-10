@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+PowerUnited)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+PowerUnited&center=true)](https://git.io/typing-svg)
 
 About Me:
 
