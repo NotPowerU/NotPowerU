@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hello!+Im+PowerUnited+👋)](https://git.io/typing-svg)
-
-### About Me:
+### About Me 👋:
 
 - 🔭 Game Developer - Discord BOT Developer - Programmer
 - 🌱 Learning
