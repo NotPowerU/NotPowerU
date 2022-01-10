@@ -1,7 +1,7 @@
 ### 👋 About Me
 
 - 🔭 Game Developer - Discord BOT Developer - Programmer
-- 🌱 I’m currently learning Web Development (HTML, CSS, JS and BOOTSTRAP).
+- 🌱 I’m currently learning Web Development (HTML, CSS and JS).
 - 💻 Trying to Create and Learn as much as Possible.
 
 ### 📊 Github Stats
