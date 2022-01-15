@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-- 🔭 Game Developer - Discord BOT Developer - Programmer
+- 🔭 Unity Developer - DJS Developer - Programmer
 - 🌱 I’m currently learning Web Development (HTML, CSS and JS).
 - 💻 Trying to Create and Learn as much as Possible.
 
